@@ -182,4 +182,11 @@ footer {
     text-align: center;
     height: fit-content;
   }
+  
+  .press-image {
+    width: 60%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
 }
